@@ -1,0 +1,37 @@
+{
+    "Employee": {
+        "Name": "sai",
+        "Grade": "A",
+        "Adress": "Munipalle",
+        "Email": "nathsai1027@gmail.com",
+        "Mobile": "9505297471"
+    },
+    "salary": [
+        {
+            "JAN-2020": {
+                "Basic salary": 1250,
+                "Net salary": 1000,
+                "Hra salary": 150,
+                "da salary": 100
+            },
+            "Feb-2020": {
+                "Basic salary": 1250,
+                "Net salary": 1000,
+                "Hra salary": 150,
+                "da salary": 100
+            },
+            "MARCH-2020": {
+                "Basic salary": 1250,
+                "Net salary": 1000,
+                "Hra salary": 150,
+                "da salary": 100
+            },
+            "APRIL-2020": {
+                "Basic salary": 1250,
+                "Net salary": 1000,
+                "Hra salary": 150,
+                "da salary": 100
+            }
+        }
+    ]
+}
