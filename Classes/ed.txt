@@ -1,0 +1,2 @@
+The Area of Rectangle is: 300.0
+The Perimeter of Rectangle is:80.0
