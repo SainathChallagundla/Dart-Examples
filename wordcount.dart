@@ -1,8 +1,7 @@
 import 'dart:io';
 
 void main() {
-  String message = "Hai i'am sainath";
-
+  String message = " Hai i'am sainath";
 // Find numbe rof workds in a string
   int i = 0;
   int counter = 0;

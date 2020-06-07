@@ -1,0 +1,61 @@
+Insert Sort
+
+Select Sort
+
+Bubble Sort
+
+Merge Sort
+
+Heap Sort
+
+
+
+
+Every thing in dart is treated as a class.. 
+
+Properties / Charastristics and Behaviour 
+
+Car -- > Color, Engine, Tyres .. Steeting , Seats..  CC, Petrol, diesel or Battery 
+Drive, Change Gear, Break , Start Off , Fill Petro , Horn , travel ,, etcc.... 
+
+KA MX05 3152 --> Red, 1.6, $ tryes , Normal Round Steeing , 5 , 1600, petrol, 
+Drive -- From Home to office , 
+Change Grear--> From P to D and then to P, 
+Break-- When applicable 
+On--to start
+Off-- to off.. Fill Petro -- when low,.. Harn -- when required..
+
+Which is stored in the memory ..
+
+Map m;
+
+m is null;;
+
+Map m = new Map();
+
+Length
+RuntimeType
+
+toList
+
+remove
+
+Get Keys
+
+Get Values..
+
+
+All methods/functions are called .. behabvious ..
+
+All fields/vartiables are called properties
+
+
+Clasification of a car but physically there no need of car.. 
+
+Class: 
+
+Object: If any thing that is physically exists that is an object.
+
+
+
+There is no car.. 
